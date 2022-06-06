@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.ipynb_checkpoints
+dataset
+dataset/**
+dataset_raw.zip
+Images
+virtualenv
+2129101033_F*
+venv
